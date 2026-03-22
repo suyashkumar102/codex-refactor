@@ -180,16 +180,4 @@ The Mr. Smith AI analysis requires a Google Gemini API key:
 
 ```
 
-### 🌐 Try the Live Demo
-**Frontend:** https://codex-refactor-mkjd.vercel.app
-**Backend API:** https://codex-refactor.onrender.com
 
-**Test with real repositories:**
-- Paste any GitHub repo URL (e.g., `https://github.com/lodash/lodash`)
-- Analyze up to 30 files simultaneously
-- See time machine analysis for any file's commit history
-
----
-
-
-</div>
