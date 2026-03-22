@@ -23,7 +23,7 @@ Every code quality tool tells you what's wrong with your code **right now**. But
 
 **Refactor Codex** is the world's first code analyzer with **time-travel capabilities**. Track quality metrics across Git commit history, identify regressions, and see exactly when technical debt was introduced.
 
-### The Frankenstein Architecture
+### The Architecture
 
 Built by stitching together incompatible technologies into something **alive**:
 
