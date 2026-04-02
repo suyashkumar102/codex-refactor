@@ -175,9 +175,7 @@ The Mr. Smith AI analysis requires a Google Gemini API key:
 3. Add your key: `GEMINI_API_KEY=your_actual_key_here`
 4. Restart the backend server
 
-**Why?** The API key is stored in `.env` which is in `.gitignore` - it won't be uploaded to GitHub, keeping your key safe!
 
 
-```
 
 
