@@ -43,15 +43,13 @@ Built by stitching together incompatible technologies into something **alive**:
 ```
 
 **Technologies Stitched Together:**
-- 🐍 **Python** + ⚡ **JavaScript/TypeScript** (dual runtime analysis)
-- 🧬 **AST Analysis** + 🤖 **AI-Powered Refactoring** (Babel + Gemini)
-- 🔌 **MCP Protocol** + 🌐 **REST API** + ⚛️ **React** (three architectures, unified)
-- ⏰ **Historical Analysis** + 📊 **Real-time Metrics** (Git + GitHub API)
-- 🎨 **Three.js** + 💀 **Gothic Horror Theme** (because refactoring is reanimating dead code)
-
+-  **Python** +  **JavaScript/TypeScript** (dual runtime analysis)
+-  **AST Analysis** + **AI-Powered Refactoring** (Babel + Gemini)
+-  **MCP Protocol** +  **REST API** +  **React** (three architectures, unified)
+-  **Historical Analysis** +  **Real-time Metrics** (Git + GitHub API)
 ---
 
-## ⚡ Features
+## Features
 
 ### ⏰ Time Machine Analysis 
 **UNIQUE - No other tool does this.** Track code quality evolution across Git commit history:
@@ -81,7 +79,7 @@ Overall trend: Improving (+12 points over 6 months)
 - **Function-Level Analysis** - Detailed breakdown of every function
 - **Code Smell Detection** - 12+ smell types with remediation suggestions
 
-### 🤖 AI-Powered Refactoring (Google Gemini)
+### AI-Powered Refactoring (Google Gemini)
 **Intelligent refactoring suggestions with context:**
 
 - **Extract Function Refactoring** - Identify code blocks that should be separate functions
@@ -143,7 +141,6 @@ Every other tool shows you code quality NOW. **We show you the STORY.**
 
 ---
 
-## 🎬 Demo
 
 ### Quick Start
 ```bash
